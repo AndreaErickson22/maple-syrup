@@ -1,0 +1,31 @@
+header {
+  margin: 12px;
+  background-color: white;
+outline-style: groove;
+    outline-color: black;
+    outline-width: 7px;
+}
+ul {
+  padding: 20px;
+
+
+}
+.nav-item {
+  justify-content: flex-end;
+  text-size-adjust: 14pt;
+}
+.Navigation-Bar {
+
+ justify-content: space-between;
+}
+img {
+   max-width: 50%;
+  height: auto;
+  margin: 20px 0px 0px 200px;
+}
+.background-image{
+  background-color: rgb(223, 89, 27);
+height: 300px;
+margin: -12px;
+padding-top: 40px;
+}
